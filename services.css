@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Dancing Script', cursive;
+}
+#h1{
+    font-family: 'Dancing Script', cursive;
+    color: crimson;
+    margin-left: 20px;
+}
+#p{
+    font-family: 'Dancing Script', cursive;
+    color: rgb(43, 172, 92);
+    font: size 50px;
+ 
+}
+#p1{
+    font-family: 'Dancing Script', cursive;
+    color: rgb(43, 172, 92);
+    font-size: 50px;
+ 
+}
